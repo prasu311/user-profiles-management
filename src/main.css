@@ -1,0 +1,23 @@
+/* main.css */
+
+/* Example: set background color for the app */
+body {
+  background-color: #f8f9fa; /* light gray, matches Bootstrap */
+}
+
+/* Example: style headings */
+h1,
+h2,
+h3 {
+  font-family: Arial, sans-serif;
+  color: #0d6efd; /* Bootstrap primary blue */
+}
+
+/* Example: card style for user profile */
+.user-card {
+  border: 1px solid #dee2e6;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  background-color: #fff;
+}
